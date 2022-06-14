@@ -8,3 +8,6 @@ cuba letak nama anda di bawah
 MOHD INDRA SUNNY
 tambah umur anda 
 UMUR BIAR LAA RAHSIA
+OPTION UMUR 20
+OPTION UMUR 30
+OPTION UMUR 40
